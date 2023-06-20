@@ -1,7 +1,3 @@
-
-
-
-
 #!/bin/bash
 
 # Function to perform addition
